@@ -21,7 +21,7 @@
   "author": "Daniel Kumor",
   "license": "MIT",
   "dependencies": {
-    "wrtc": "^0.3.3",
+    "wrtc": "^0.4.5",
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "rollup": "^1.6.0",
